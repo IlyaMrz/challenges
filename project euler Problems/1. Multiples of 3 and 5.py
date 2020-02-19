@@ -1,7 +1,7 @@
-x=0
+x = 0
 for i in range(1000):
-    if i%3==0 or i%5==0:
-        x=x+i
+    if i % 3 == 0 or i % 5 == 0:
+        x = x + i
 print(x)
 
-#fird test
+# 4444444444444444444444
