@@ -4,4 +4,4 @@ for i in range(1000):
         x=x+i
 print(x)
 
-#second test2
+#fird test
