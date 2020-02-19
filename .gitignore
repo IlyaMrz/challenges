@@ -1,9 +1,9 @@
+.*
 /PyShop/
-/.gitignore
-/HiAIlearn.ipynb
 /manage.py
-/music.csv
-/vgsales.csv
-/HelloWorld/
 /.ipynb_checkpoints/
-/HelloWorld/.idea/
+/music.csv
+/.gitignore
+/HelloWorld/
+/HiAIlearn.ipynb
+/vgsales.csv
