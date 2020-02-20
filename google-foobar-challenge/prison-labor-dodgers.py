@@ -3,4 +3,4 @@ def solution(x, y):
     z = list(set(x)^set(y))
     return(z[0])
 
-#444444444K
+#6
